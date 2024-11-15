@@ -4,4 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+godot-binary-serialization = "0.1.11"
+indexmap = "2.6.0"
+serde = "1.0.215"
 steamworks = "0.11.0"
